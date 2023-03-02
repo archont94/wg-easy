@@ -1,6 +1,6 @@
 # Prepare wireguard-go in separate builder
-ARG GOLANG_VERSION=1.18.0
-ARG ALPINE_VERSION=3.15
+ARG GOLANG_VERSION=1.20.1
+ARG ALPINE_VERSION=3.17
 ARG wg_go_tag=0.0.20220316
 ARG wg_tools_tag=v1.0.20210914
 
